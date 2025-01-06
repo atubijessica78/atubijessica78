@@ -5,14 +5,16 @@
 <h1 align="center">  Hi there 👋, I'm Jessica Atubi </h1>
 </div>
 
-<div display="flex">
-  <div display="flex">
+<div align="center" style='display:flex;'>
 <p>A passionate FullStack Developer </p>
 <ul>
   <li>  - 🔭 I’m currently working on an Ecommerce Website </li>
   <li>- 🌱 I’m currently learning Python and Java </li>
   <li>- ⚡ Fun fact I am Funny</li>
 </ul>
+  <div>
+    <img src="https://cdn3d.iconscout.com/3d/premium/thumb/programmer-doing-coding-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--website-web-development-pack-crime-security-illustrations-10193071.png?f=webp" width="200" alt="Coding Illustration" />
+  </div>
 </div>
   <div align="center"> 
   <a href="mailto:atubijessica78@gmail.com">
@@ -24,10 +26,6 @@
   <a href="" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
-</div>
-  <div>
-    <img src="https://cdn3d.iconscout.com/3d/premium/thumb/programmer-doing-coding-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--website-web-development-pack-crime-security-illustrations-10193071.png?f=webp" width="200" alt="Coding Illustration" />
-  </div>
 </div>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
