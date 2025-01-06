@@ -4,11 +4,11 @@
   <img src="https://img.freepik.com/premium-photo/man-is-seated-front-two-computer-monitors-actively-engaged-work-office-desk-programmer-debugging-code-multiple-screens-ai-generated_538213-28095.jpg"/>
 </h1>
 <br/>
-<h1 align="center"> ## Hi there 👋, I'm Jessica Atubi </h1>
-<hr>
+<h1 align="center">  Hi there 👋, I'm Jessica Atubi </h1>
+
 <p>A passionate FullStack Developer </p>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div display="flex">
   <div>
 <ul>
   <li>  - 🔭 I’m currently working on an Ecommerce Website </li>
@@ -24,6 +24,6 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,java,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript, express,firebase,mongodb,java,nextjs,mysql" /><br>
 </div>
 
