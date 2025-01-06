@@ -1,11 +1,9 @@
 
 
-
-  <img src="https://img.freepik.com/premium-photo/man-is-seated-front-two-computer-monitors-actively-engaged-work-office-desk-programmer-debugging-code-multiple-screens-ai-generated_538213-28095.jpg" align="center"/>
-
+<div align="center">
+  <img src="https://img.freepik.com/premium-photo/man-is-seated-front-two-computer-monitors-actively-engaged-work-office-desk-programmer-debugging-code-multiple-screens-ai-generated_538213-28095.jpg" />
 <h1 align="center">  Hi there 👋, I'm Jessica Atubi </h1>
-
-
+</div>
 
 <div display="flex">
   <div display="flex">
