@@ -1,14 +1,14 @@
 
 
 
-  <img src="https://img.freepik.com/premium-photo/man-is-seated-front-two-computer-monitors-actively-engaged-work-office-desk-programmer-debugging-code-multiple-screens-ai-generated_538213-28095.jpg"/>
+  <img src="https://img.freepik.com/premium-photo/man-is-seated-front-two-computer-monitors-actively-engaged-work-office-desk-programmer-debugging-code-multiple-screens-ai-generated_538213-28095.jpg" align="center"/>
 
 <h1 align="center">  Hi there 👋, I'm Jessica Atubi </h1>
 
 
 
 <div display="flex">
-  <div>
+  <div display="flex">
 <p>A passionate FullStack Developer </p>
 <ul>
   <li>  - 🔭 I’m currently working on an Ecommerce Website </li>
@@ -17,7 +17,7 @@
 </ul>
 </div>
   <div>
-    <img src="https://cdn3d.iconscout.com/3d/premium/thumb/programmer-doing-coding-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--website-web-development-pack-crime-security-illustrations-10193071.png?f=webp" width="200" alt="Coding Illustration"/>
+    <img src="https://cdn3d.iconscout.com/3d/premium/thumb/programmer-doing-coding-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--website-web-development-pack-crime-security-illustrations-10193071.png?f=webp" width="200" alt="Coding Illustration" />
   </div>
 </div>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
