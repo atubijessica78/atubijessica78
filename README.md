@@ -14,6 +14,17 @@
   <li>- ⚡ Fun fact I am Funny</li>
 </ul>
 </div>
+  <div align="center"> 
+  <a href="mailto:atubijessica78@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a>
+</div>
   <div>
     <img src="https://cdn3d.iconscout.com/3d/premium/thumb/programmer-doing-coding-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--website-web-development-pack-crime-security-illustrations-10193071.png?f=webp" width="200" alt="Coding Illustration" />
   </div>
