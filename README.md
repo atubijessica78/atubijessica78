@@ -5,18 +5,23 @@
 <h2 align="center">  Hi there 👋, I'm Jessica Atubi </h2>
 </div>
 
-<div align="center" style='display:flex; justify-content:space-between;'>
-<p>A passionate FullStack Developer </p>
-<div>
-  
- 🔭 I’m currently working on an Ecommerce Website
+
+<p align="center">A passionate FullStack Developer </p>
+
+ <div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
  🌱 I’m currently learning Python and Java
-  ⚡ Fun fact I am Funny
+
+⚡ Fun fact - My code is like a puzzle; sometimes, I just stare at it until it solves itself! 🤔**
+
+ </div>
+
+  <div style="background: black;">
+    <img src="https://cdn3d.iconscout.com/3d/premium/thumb/programmer-doing-coding-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--website-web-development-pack-crime-security-illustrations-10193071.png?f=webp" width="200" alt="Coding Illustration"  />
   </div>
-  <div>
-    <img src="https://cdn3d.iconscout.com/3d/premium/thumb/programmer-doing-coding-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--website-web-development-pack-crime-security-illustrations-10193071.png?f=webp" width="200" alt="Coding Illustration" style="background: black" />
-  </div>
-</div>
+
   <div align="center"> 
   <a href="mailto:atubijessica78@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
