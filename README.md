@@ -8,20 +8,17 @@
 <hr>
 <p>A passionate FullStack Developer </p>
 
-<div display="flex space-between">
+<div style="display:flex; justify-content: space-between; align-items: center;">
   <div>
-    - 🔭 I’m currently working on an Ecommerce Website
-- 🌱 I’m currently learning Python
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact I am Funny
--->
+<ul>
+  <li>  - 🔭 I’m currently working on an Ecommerce Website </li>
+  <li>- 🌱 I’m currently learning Python and Java </li>
+  <li>- ⚡ Fun fact I am Funny</li>
+  <li></li>
+</ul>
   </div>
-
   <div>
-    <img src="https://cdn3d.iconscout.com/3d/premium/thumb/programmer-doing-coding-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--website-web-development-pack-crime-security-illustrations-10193071.png?f=webp" />
+    <img src="https://cdn3d.iconscout.com/3d/premium/thumb/programmer-doing-coding-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--website-web-development-pack-crime-security-illustrations-10193071.png?f=webp" width="200" alt="Coding Illustration"/>
   </div>
 </div>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
