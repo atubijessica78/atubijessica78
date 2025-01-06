@@ -5,20 +5,22 @@
 <h2 align="center">  Hi there 👋, I'm Jessica Atubi </h2>
 </div>
 
-
-<p align="center">A passionate FullStack Developer </p>
+<div style="display:flex; flex: 1">
+  <p align="center">A passionate FullStack Developer </p>
 
  <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on an Ecommerce website
  
  🌱 I’m currently learning Python and Java
 
-⚡ Fun fact - My code is like a puzzle; sometimes, I just stare at it until it solves itself! 🤔**
+⚡ Fun fact - My code is like a puzzle; sometimes, <br> I just stare at it until it solves itself! 🤔
 
  </div>
+</div>
 
-  <div style="background: black;">
+
+  <div style="background: black;" align="center">
     <img src="https://cdn3d.iconscout.com/3d/premium/thumb/programmer-doing-coding-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--website-web-development-pack-crime-security-illustrations-10193071.png?f=webp" width="200" alt="Coding Illustration"  />
   </div>
 
