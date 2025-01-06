@@ -4,17 +4,16 @@
   <img src="https://img.freepik.com/premium-photo/man-is-seated-front-two-computer-monitors-actively-engaged-work-office-desk-programmer-debugging-code-multiple-screens-ai-generated_538213-28095.jpg"/>
 </h1>
 <br/>
-## Hi there 👋, I'm Jessica Atubi 
+<h1 align="center"> ## Hi there 👋, I'm Jessica Atubi </h1>
 <hr>
 <p>A passionate FullStack Developer </p>
 
-<div style="display:flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
 <ul>
   <li>  - 🔭 I’m currently working on an Ecommerce Website </li>
   <li>- 🌱 I’m currently learning Python and Java </li>
   <li>- ⚡ Fun fact I am Funny</li>
-  <li></li>
 </ul>
   </div>
   <div>
