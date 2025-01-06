@@ -2,15 +2,15 @@
 
 <div align="center">
   <img src="https://img.freepik.com/premium-photo/man-is-seated-front-two-computer-monitors-actively-engaged-work-office-desk-programmer-debugging-code-multiple-screens-ai-generated_538213-28095.jpg" />
-<h1 align="center">  Hi there 👋, I'm Jessica Atubi </h1>
+<h2 align="center">  Hi there 👋, I'm Jessica Atubi </h2>
 </div>
 
-<div align="center" style='display:flex; justify-content:space-between'>
+<div align="center" style='display:flex; justify-content:space-between;'>
 <p>A passionate FullStack Developer </p>
-<ul style='list-style:none'>
-  <li>  - 🔭 I’m currently working on an Ecommerce Website </li>
-  <li>- 🌱 I’m currently learning Python and Java </li>
-  <li>- ⚡ Fun fact I am Funny</li>
+<ul style='list-style:none;'>
+  <li>  🔭 I’m currently working on an Ecommerce Website </li>
+  <li> 🌱 I’m currently learning Python and Java </li>
+  <li> ⚡ Fun fact I am Funny</li>
 </ul>
   <div>
     <img src="https://cdn3d.iconscout.com/3d/premium/thumb/programmer-doing-coding-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--website-web-development-pack-crime-security-illustrations-10193071.png?f=webp" width="200" alt="Coding Illustration" />
