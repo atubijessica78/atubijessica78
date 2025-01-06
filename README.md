@@ -5,9 +5,9 @@
 <h1 align="center">  Hi there 👋, I'm Jessica Atubi </h1>
 </div>
 
-<div align="center" style='display:flex;'>
+<div align="center" style='display:flex; justify-content:space-between'>
 <p>A passionate FullStack Developer </p>
-<ul>
+<ul style='list-style:none'>
   <li>  - 🔭 I’m currently working on an Ecommerce Website </li>
   <li>- 🌱 I’m currently learning Python and Java </li>
   <li>- ⚡ Fun fact I am Funny</li>
